@@ -2,6 +2,8 @@
 
 A Boilerplate for creating NPM packages using Babel, ESLint, Mocha and Chai
 
+[![Build Status](https://travis-ci.org/camsong/babel-npm-boilerplate.svg)](https://travis-ci.org/camsong/babel-npm-boilerplate)
+
 ## Installation
 
 Clone this repo or download using `npm`
